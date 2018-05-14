@@ -17,7 +17,7 @@ So far, the workshops have been an hour long and in that case, the traditional s
    3. For example, for the first workshop covering a basic introduction to JavaScript syntax, we first went over declaring variables, then some basic data types, `if-else` statements, arrays, `for` loops, and finally functions and objects. 
    4. For the workshop on HTML Templating in Handlebars, our speaker had the attendees build a simpler web page than the demo, but using all the same concepts.
 3. Kahoot - *10 minutes*
-   1. [Kahoot](kahoot.com) is a website that allows you to create short quizzes that people can join by entering a short code and compete against each other in real time. 
+   1. [Kahoot](https://kahoot.com/) is a website that allows you to create short quizzes that people can join by entering a short code and compete against each other in real time. 
    2. Hack in particular likes to have 4 questions for each workshop with the questions being somewhere between easy enough to answer and hard enough to differentiate who paid attention to the code-along and who didn't. This is useful for...
    3. Prizes! We use Kahoot, yes, for seeing who paid attention, but mostly to get the top 3 of the crowd so we can give out prizes to the winners. For the remaining sessions, the first place winner will get a \$15 Amazon gift card and the second and third will get \$10.
 4. Demo - *20 minutes*

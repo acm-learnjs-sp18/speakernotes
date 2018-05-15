@@ -48,8 +48,9 @@ You will have access to an additional computer up at the podium for you to read 
 
 Every workshop requires a README, which are step-by-step instructions anybody could follow and create the exact demo shown in the "final code" folder. Screenshots, code snippets, and little progress check-ups are good!
 
-I personally use a free application called "Typora" to create my Markdown READMEs. You can download it here, but feel free obviously to use any method that works for you.
+I personally use a free application called "Typora" to create my Markdown READMEs. You can download it [here](https://typora.io/), but feel free obviously to use any method that works for you.
 
-[See an example here: ]
+[See first workshop example here](https://github.com/acm-learnjs-sp18/intro-to-js-1/blob/master/README.md)
+[See second workshop example here](https://github.com/acm-learnjs-sp18/new-javascript-features/blob/master/README.md)
 
 After you create your project (with starter and final folders) please create a GitHub repo for it! We will then clone the repo, and add a remote titled `acm` so that the repo can be displayed on ACM Hack's official GitHub and the Learn.js organization. 
